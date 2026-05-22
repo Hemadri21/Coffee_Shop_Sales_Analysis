@@ -121,20 +121,6 @@ This dashboard helps businesses to:
 
 ---
 
-# 📷 Dashboard Preview
-
-(Add dashboard screenshots here)
-
-Example:
-
-```md
-![Sales Dashboard](images/dashboard1.png)
-![Time Analysis](images/dashboard2.png)
-![Location Analysis](images/dashboard3.png)
-```
-
----
-
 # 📌 Conclusion
 
 The Coffee Shop Sales Analysis Dashboard demonstrates practical business intelligence and data visualization skills using Power BI. It converts raw sales data into actionable insights that can improve operational and strategic decision-making.
